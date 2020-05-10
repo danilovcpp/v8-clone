@@ -14,7 +14,7 @@ class Zone final {
     ~Zone();
 
     void* New(size_t size) {};
-}
+};
 
 
 } // namespace internal
